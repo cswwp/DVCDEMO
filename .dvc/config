@@ -1,0 +1,4 @@
+[core]
+    remote = localcachedata
+['remote "localcachedata"']
+    url = /tmp/dvcstore
